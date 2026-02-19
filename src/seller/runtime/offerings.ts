@@ -1,5 +1,5 @@
 import axios from 'axios';
-{
+export const offering = {
   "name": "Quick Token Scan",
   "description": "토큰 주소 입력 → 유동성, 가격, 위험도 빠르게 분석 (CryptoIntel 스타일)",
   "fee": { "amount": "0.05", "token": "USDC" },
